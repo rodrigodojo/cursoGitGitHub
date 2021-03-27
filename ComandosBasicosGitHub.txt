@@ -33,6 +33,6 @@ git push
 git pull
 // realiza o download das atualizações dos arquivos que se encontram no repositorio do GitHub para a pasta local.
 
-git clone
+git clone URL DO GITGUB .
 // realiza o download e criação de todo um repositorio do GitHub para uma pasta local. A difderença base entre o git clone e o git pull é que se usa o git clone quando não se sabe direito quem é o origin , e com o clone ele traz essa informação.
 
