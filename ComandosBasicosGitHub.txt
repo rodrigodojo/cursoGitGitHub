@@ -1,7 +1,10 @@
 comandos basicos GitHub:
 
 .git
-// pasta oculta.
+// pasta oculta base do Git.
+
+.gitignore
+// pasta oculta com instruçoes para ignorar arquivos no repositorio.
 
 git --version
 // verifica qual git está instalado na máquina.
