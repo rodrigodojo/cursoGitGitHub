@@ -51,7 +51,7 @@ git mv NOMEDOARQUIVO NOVOPATHDOARQUIVO
 git checkout NOMEDOARQUIVO
 // usado para desfazer alterações desnecessarias ao repositorio.
 
-git reset --hard
+git reset --hard origin/main
 // Desfaz todas as mudanças feitas pelo autor , retornando o projeto ao seu estado inicial.
 
 
