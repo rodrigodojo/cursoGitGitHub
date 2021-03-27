@@ -42,5 +42,6 @@ git clone URL DO GITGUB .
 git log
 // acessa um historico dos log de modificações de um repositorio. para sair do log , usar o CTRL + C ou a tecla q .
 
-git mv
+git mv NOMEDOARQUIVO NOVOPATHDOARQUIVO
 // usado para mover ou renomear um arquivo do seu repositorio.
+
