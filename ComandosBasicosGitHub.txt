@@ -12,11 +12,14 @@ git init
 git status
 // verifica o estados dos arquivos do Git iniciados na pasta local.
 
-git add
+git add NOMEDOARQUIVO
 // adiciona um arquivo para ser commitado ao git , para selecionar todos usar o espaço .
 
+git rm NOMEDOARQUIVO
+// remoção de um arquivo do repositorio do GitHub.
+
 git commit -a -m "Comentário"
-// realiza o commit de todos os arquivos adicionados junto com um comentario escrito pelo autor.
+// realiza o commit de todos os arquivos modificados junto com um comentario escrito pelo autor.
 
 git branch -m main
 // criar um branch , no caso main , para saber quem foi o autor do commit.
@@ -36,6 +39,4 @@ git pull
 git clone URL DO GITGUB .
 // realiza o download e criação de todo um repositorio do GitHub para uma pasta local. A difderença base entre o git clone e o git pull é que se usa o git clone quando não se sabe direito quem é o origin , e com o clone ele traz essa informação.
 
-git rm NOMEDOARQUIVO
-// remoção de um arquivo do repositorio do GitHub.
 
