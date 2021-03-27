@@ -31,5 +31,5 @@ git push
 // após a primeira realização do git push -u origin main, é possivel usar só o git push , desde que se queira usar as mesmas branchs 
 
 git pull origin main
-// realiza o download dos arquivos que se encontram no repositorio do GitHub para a pasta local
+// realiza o download das atualizações dos arquivos que se encontram no repositorio do GitHub para a pasta local
 
