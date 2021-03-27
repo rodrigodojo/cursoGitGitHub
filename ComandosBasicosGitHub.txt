@@ -27,6 +27,4 @@ git remote add origin URL DO GITGUB
 git push -u origin main
 // realiza a inserção das commit's local ao repositorio do GitHub.
 
-
-
-
+teste
