@@ -15,8 +15,17 @@ git status
 git add
 // adiciona um arquivo para ser commitado ao git , para selecionar todos usar o espaço .
 
+git commit -m "Comentário"
+// realiza o commit de todos os arquivos adicionados junto com um comentario escrito pelo autor.
 
+git branch -m main
+// criar um branch , no caso main , para saber quem foi o autor do commit.
 
+git remote add origin URL DO GITGUB
+// adiciona o repositorio remoto do GitHub ao Git , geralmente classificado como origin.
+
+git push -u origin main
+// realiza a inserção das commit's local ao repositorio do GitHub.
 
 
 
