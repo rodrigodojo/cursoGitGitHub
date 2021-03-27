@@ -28,5 +28,5 @@ git push -u origin main
 // realiza a inserção das commit's local ao repositorio do GitHub.
 
 git pull origin main
-// realiza o upload dos arquivos que se encontro no repositorios do GitHub para a pasta local
+// realiza o upload dos arquivos que se encontram no repositorio do GitHub para a pasta local
 
