@@ -1,13 +1,13 @@
 comandos basicos GitHub:
 
 .git
-//pasta oculta.
+// pasta oculta.
 
 git --version
-//verifica qual git está instalado na máquina.
+// verifica qual git está instalado na máquina.
 
 git init
-//Cria um repositorio(arquivos) na sua maquina para iniciar o controle de versão.
+// Cria um repositorio(arquivos) na sua maquina para iniciar o controle de versão.
 
 git status
 // verifica o estados dos arquivos do Git iniciados na pasta local.
