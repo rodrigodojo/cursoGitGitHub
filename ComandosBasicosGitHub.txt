@@ -45,3 +45,6 @@ git log
 git mv NOMEDOARQUIVO NOVOPATHDOARQUIVO
 // usado para mover ou renomear um arquivo do seu repositorio.
 
+git checkout NOMEDOARQUIVO
+// usado para desfazer alterações desnecessarias ao repositorio.
+
