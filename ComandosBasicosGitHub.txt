@@ -57,3 +57,6 @@ git reset --hard origin/main
 git branch NOMEDOBRANCH
 // esse comando sozinho mostra os branchs existentes no projeto , ao adicionar um espaço e um nome , criasse um novo branch.
 
+git checkout -b NOMEDOBRANCH
+// muda de branch no repositorio. 
+
