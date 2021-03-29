@@ -82,4 +82,9 @@ git stash clear
 git stash drop NUMERODASTASH
 // limpa uma stash especifica usado o numero dela na lista das stashs.
 
+git tag -a NOMEDATAG -m "Comentário"
+// usado para arquivar algumas modificações salvando como um checkpoint para o branch.
+
+
+
 
