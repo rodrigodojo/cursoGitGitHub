@@ -66,4 +66,11 @@ git merge NOMEDOBRANCH
 git stash
 // move todas as modificações da sua branch para uma area semelhante a uma lixeira , mas tudo fica arquivado , e o repositorio local volta ao estado inicial de quando foi iniciado/clonado.
 
+git stash list
+
+// lista todas as git stash dadas e ajuda a recuperar os arquivos.
+
+git stash apply NUMERODASTASH
+// recupera o progresso da branch jogada na stash selecionada por número.
+
 
