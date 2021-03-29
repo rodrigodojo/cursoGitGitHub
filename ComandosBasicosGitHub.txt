@@ -60,4 +60,10 @@ git branch NOMEDOBRANCH
 git checkout -b NOMEDOBRANCH
 // muda de branch no repositorio, ao usar a flag -b ela cria e altera para o branch com o NOMEDOBRANCH.  
 
+git merge NOMEDOBRANCH
+// uni os branchs.
+
+git stash
+// move todas as modificações da sua branch para uma area semelhante a uma lixeira , mas tudo fica arquivado , e o repositorio local volta ao estado inicial de quando foi iniciado/clonado.
+
 
