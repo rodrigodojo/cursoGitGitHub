@@ -85,6 +85,8 @@ git stash drop NUMERODASTASH
 git tag -a NOMEDATAG -m "Comentário"
 // usado para arquivar algumas modificações salvando como um checkpoint para o branch.
 
+git show NOMEDATAG
+// possibilida ver as informações da tag criada.
 
 
 
