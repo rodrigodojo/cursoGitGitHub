@@ -73,4 +73,13 @@ git stash list
 git stash apply NUMERODASTASH
 // recupera o progresso da branch jogada na stash selecionada por número.
 
+git stash show -p NUMERODASTASH
+// possibilida ver as diferenças entre as stashs.
+
+git stash clear
+// limpa todas as stashs criadas contidas na list.
+
+git stash drop NUMERODASTASH
+// limpa uma stash especifica usado o numero dela na lista das stashs.
+
 
