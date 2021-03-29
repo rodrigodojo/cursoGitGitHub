@@ -54,4 +54,6 @@ git checkout NOMEDOARQUIVO
 git reset --hard origin/main
 // Desfaz todas as mudanças feitas pelo autor , retornando o projeto ao seu estado inicial.
 
-teste clone
+git branch NOMEDOBRANCH
+// esse comando sozinho mostra os branchs existentes no projeto , ao adicionar um espaço e um nome , criasse um novo branch.
+
