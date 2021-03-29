@@ -54,4 +54,4 @@ git checkout NOMEDOARQUIVO
 git reset --hard origin/main
 // Desfaz todas as mudanças feitas pelo autor , retornando o projeto ao seu estado inicial.
 
-
+teste clone
