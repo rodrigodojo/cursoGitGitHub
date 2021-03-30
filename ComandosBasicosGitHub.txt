@@ -106,3 +106,6 @@ git push --set-upstream origin NOMEDOBRANCH
 git submodule
 // cria um submodulo para ser usado em um repositorio.
 
+git push --recurse-submodules=on-demand
+// envia os submodulos para o repositorio.
+
