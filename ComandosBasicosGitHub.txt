@@ -113,7 +113,6 @@ git diff NOMEDOARQUIVO NOMEDOARQUIVO
 // mostra as diferenças entre os arquivos.
 
 git shortlog
-// permite ver o log resumido de um projeto alocado no repositorio.
-
+// permite ver o log resumido de um projeto alocado no repositorio. igual ao log , para sair pode-se usar o CTRL + C ou a tecla q .
 
 
