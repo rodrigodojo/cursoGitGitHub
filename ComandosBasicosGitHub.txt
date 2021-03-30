@@ -109,3 +109,6 @@ git submodule
 git push --recurse-submodules=on-demand
 // envia os submodulos para o repositorio.
 
+git diff NOMEDOARQUIVO NOMEDOARQUIVO
+// mostra as diferenças entre os arquivos.
+
