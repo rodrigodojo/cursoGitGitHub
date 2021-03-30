@@ -112,3 +112,8 @@ git push --recurse-submodules=on-demand
 git diff NOMEDOARQUIVO NOMEDOARQUIVO
 // mostra as diferenças entre os arquivos.
 
+git shortlog
+// permite ver o log resumido de um projeto alocado no repositorio.
+
+
+
