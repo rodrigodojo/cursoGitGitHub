@@ -121,4 +121,13 @@ git clean -f
 git gc
 // abreviação de garbage collector , identifica os arquivos que não são mais necessários e os exclui.
 
+git fsck
+// verifica a integridade de arquivos e sua conectividade.
+
+git reflog
+// mapeia todos os passos no repositorio , com tempo de limite de 30 dias.
+
+git archive --format zip --output arquivos_master.zip master
+// compacta os arquivos de um repositorio em um formato, no caso zip.
+
 
