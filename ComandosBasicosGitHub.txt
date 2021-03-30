@@ -88,5 +88,3 @@ git tag -a NOMEDATAG -m "Comentário"
 git show NOMEDATAG
 // possibilida ver as informações da tag criada.
 
-
-
