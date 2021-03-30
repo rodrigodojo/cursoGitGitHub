@@ -91,5 +91,9 @@ git show NOMEDATAG
 git checkout NOMEDATAG
 // possibilida a troca de tags.
 
+git push origin NOMEDATAG
+// envia para o repositorio a tag selecionada.
 
+git push origin --tags
+// envia o conjunto de tags local para o repositorio.
 
