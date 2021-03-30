@@ -115,4 +115,10 @@ git diff NOMEDOARQUIVO NOMEDOARQUIVO
 git shortlog
 // permite ver o log resumido de um projeto alocado no repositorio. igual ao log , para sair pode-se usar o CTRL + C ou a tecla q .
 
+git clean -f
+// limpa os arquivos que não estão sendo trackeados. A flag -f pode ser usado para forçar o comando clean.
+
+git gc
+// abreviação de garbage collector , identifica os arquivos que não são mais necessários e os exclui.
+
 
