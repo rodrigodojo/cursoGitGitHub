@@ -1,5 +1,7 @@
 # cursoGitGitHub
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white Repositório para o curso de GitHub. https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)] 
+Repositório para o curso de GitHub. 
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)] 
 
 Arquivo de texto(.txt) com um lista de comandos para Git. 
 
