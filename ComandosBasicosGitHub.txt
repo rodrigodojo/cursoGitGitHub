@@ -66,4 +66,25 @@ git merge NOMEDOBRANCH
 git stash
 // move todas as modificações da sua branch para uma area semelhante a uma lixeira , mas tudo fica arquivado , e o repositorio local volta ao estado inicial de quando foi iniciado/clonado.
 
+git stash list
+
+// lista todas as git stash dadas e ajuda a recuperar os arquivos.
+
+git stash apply NUMERODASTASH
+// recupera o progresso da branch jogada na stash selecionada por número.
+
+git stash show -p NUMERODASTASH
+// possibilida ver as diferenças entre as stashs.
+
+git stash clear
+// limpa todas as stashs criadas contidas na list.
+
+git stash drop NUMERODASTASH
+// limpa uma stash especifica usado o numero dela na lista das stashs.
+
+git tag -a NOMEDATAG -m "Comentário"
+// usado para arquivar algumas modificações salvando como um checkpoint para o branch.
+
+git show NOMEDATAG
+// possibilida ver as informações da tag criada.
 
