@@ -97,3 +97,12 @@ git push origin NOMEDATAG
 git push origin --tags
 // envia o conjunto de tags local para o repositorio.
 
+git fetch -a
+// atualiza todos os branchs e tags que ainda não são reconhecidos localmente.
+
+git push --set-upstream origin NOMEDOBRANCH
+// envia o branch local para o repositorio ficando visivel para todos com acesso ao GitHub.
+
+git submodule
+// cria um submodulo para ser usado em um repositorio.
+
