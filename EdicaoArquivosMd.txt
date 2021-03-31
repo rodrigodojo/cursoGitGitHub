@@ -27,4 +27,7 @@ _**TEXTO**_
 ```LIMGUAGEMDEPROGRAMAÇÃO TEXTOCODIGO```
 // uma sintaxe do markdown do GitHub para representar codigo no GitHub.
 
+-[X] e -[]
+// mais uma sintaxe do markdown do GitHub, possibilida criar uma tasklist.
+
 
