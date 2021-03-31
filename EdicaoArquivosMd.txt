@@ -1,0 +1,33 @@
+comandos simples para melhorar a visualização dos arquivos MarkDown no GitHub.
+
+#
+// usar # ajudar a identificar o head do texto, e a quantidade de # indica qual head será usado.
+
+**TEXTO** ou __TEXTO__
+// usado para colocar o texto interno em marcação.
+
+*TEXTO* ou _TEXTO_
+// usado para colocar o texto interno em italico.
+
+_**TEXTO**_
+// Combinação das duas alterações de texto.
+
+*
+// usado para criar uma lista não ordenada.
+
+1.
+// usado para criar uma lista ordenada.
+
+![TEXTODAIMAGEM](LINKDAIMAGEM)
+// possibilida a inserção de uma imagem no arquivo.md.
+
+[TEXTODOLINK](CAMINHODOLINK)
+// passa um endereço de um link para o arquivo.md. Se for do dominio do GitHub , pode-se colocar o link direto.
+
+```LIMGUAGEMDEPROGRAMAÇÃO TEXTOCODIGO```
+// uma sintaxe do markdown do GitHub para representar codigo no GitHub.
+
+-[X] e -[]
+// mais uma sintaxe do markdown do GitHub, possibilida criar uma tasklist.
+
+
