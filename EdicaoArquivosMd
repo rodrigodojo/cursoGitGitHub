@@ -12,5 +12,9 @@ comandos simples para melhorar a visualização dos arquivos .md no GitHub.
 _**TEXTO**_
 // Combinação das duas alterações de texto.
 
+*
+// usado para criar uma lista não ordenada.
 
+1.
+// usado para criar uma lista ordenada.
 
