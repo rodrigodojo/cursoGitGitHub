@@ -24,4 +24,7 @@ _**TEXTO**_
 [TEXTODOLINK](CAMINHODOLINK)
 // passa um endereço de um link para o arquivo.md. Se for do dominio do GitHub , pode-se colocar o link direto.
 
+```TEXTOCODIGO```
+// uma sintaxe do markdown do GitHub para representar codigo no GitHub.
+
 
