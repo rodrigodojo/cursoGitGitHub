@@ -1,0 +1,16 @@
+comandos simples para melhorar a visualização dos arquivos .md no GitHub.
+
+#
+// usar # ajudar a identificar o head do texto, e a quantidade de # indica qual head será usado.
+
+**TEXTO** ou __TEXTO__
+// usado para colocar o texto interno em marcação.
+
+*TEXTO* ou _TEXTO_
+// usado para colocar o texto interno em italico.
+
+_**TEXTO**_
+// Combinação das duas alterações de texto.
+
+
+
